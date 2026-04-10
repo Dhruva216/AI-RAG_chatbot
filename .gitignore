@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pdf
+temp.pdf
+.ipynb_checkpoints/
